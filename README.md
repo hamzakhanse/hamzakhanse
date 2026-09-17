@@ -8,7 +8,7 @@ Full-Stack Web Developer specializing in building high-performance, scalable web
 - 🔭 Building end-to-end Web Applications using modern JavaScript ecosystems
 - 🌱 Architecting scalable frontend systems & optimizing web performance
 - 💬 Engineering robust solutions with React, TypeScript, and Node.js
-- 📬 Contact: **[Your Email]** | **[LinkedIn Profile URL]**
+- 📬 Contact: **[hamzakhansen@gmail.com]** | **[]**
 
 ---
 
